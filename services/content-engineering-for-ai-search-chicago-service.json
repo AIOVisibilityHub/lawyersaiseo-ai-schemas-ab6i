@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Content Engineering for AI Search in Chicago",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Chicago"
+  },
+  "description": "Expert Content Engineering for AI Search services for Chicago residents and businesses.",
+  "serviceType": "Content Engineering for AI Search"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Microsoft Copilot Optimization in Los Angeles",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Los Angeles"
+  },
+  "description": "Expert Microsoft Copilot Optimization services for Los Angeles residents and businesses.",
+  "serviceType": "Microsoft Copilot Optimization"
+}

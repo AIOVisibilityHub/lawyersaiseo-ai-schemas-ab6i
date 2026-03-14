@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "LawyersAISEO - AI Search Ranking Monitoring",
+  "description": "Professional AI Search Ranking Monitoring services in Houston. LawyersAISEO provides AI Answer Engine Optimization (AEO) specifically for lawyers and law firms, helping them get cited and recommended by AI platforms like ChatGPT, Perplexity, Google Gemini, and Microsoft Copilot.",
+  "url": "https://www.lawyersaiseo.com/",
+  "telephone": "213-537-5613",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Houston"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Houston"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "AI Search Ranking Monitoring Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "AI Search Ranking Monitoring"
+        }
+      }
+    ]
+  }
+}

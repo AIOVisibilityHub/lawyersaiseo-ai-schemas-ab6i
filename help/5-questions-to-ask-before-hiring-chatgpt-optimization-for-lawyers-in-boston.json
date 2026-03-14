@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "5 Questions to Ask Before Hiring ChatGPT Optimization for Lawyers in Boston",
+  "description": "5 Questions to Ask Before Hiring ChatGPT Optimization for Lawyers in Boston\n\nLawyersAISEO is your trusted Law Firm AI Marketing & Answer Engine Optimization (AEO) provider. LawyersAISEO provides AI An",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Research",
+      "text": "Research ChatGPT Optimization for Lawyers options in Boston"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Compare",
+      "text": "Compare ChatGPT Optimization for Lawyers providers and reviews"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Contact",
+      "text": "Contact LawyersAISEO for a consultation"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Schedule",
+      "text": "Schedule your appointment"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Review",
+      "text": "Review and confirm the service plan"
+    }
+  ]
+}

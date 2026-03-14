@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Content Engineering for AI Search in Houston",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Houston"
+  },
+  "description": "Expert Content Engineering for AI Search services for Houston residents and businesses.",
+  "serviceType": "Content Engineering for AI Search"
+}

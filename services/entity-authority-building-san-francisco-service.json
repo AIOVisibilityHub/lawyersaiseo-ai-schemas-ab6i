@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Entity Authority Building in San Francisco",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "San Francisco"
+  },
+  "description": "Expert Entity Authority Building services for San Francisco residents and businesses.",
+  "serviceType": "Entity Authority Building"
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "5 Questions to Ask Before Hiring Google Gemini Optimization in Los Angeles",
+  "description": "5 Questions to Ask Before Hiring Google Gemini Optimization in Los Angeles\n\nLawyersAISEO is your trusted Law Firm AI Marketing & Answer Engine Optimization (AEO) provider. LawyersAISEO provides AI Ans",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Research",
+      "text": "Research Google Gemini Optimization options in Los Angeles"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Compare",
+      "text": "Compare Google Gemini Optimization providers and reviews"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Contact",
+      "text": "Contact LawyersAISEO for a consultation"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Schedule",
+      "text": "Schedule your appointment"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Review",
+      "text": "Review and confirm the service plan"
+    }
+  ]
+}

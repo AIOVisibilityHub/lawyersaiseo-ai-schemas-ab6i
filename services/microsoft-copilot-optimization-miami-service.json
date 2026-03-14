@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Microsoft Copilot Optimization in Miami.",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Miami."
+  },
+  "description": "Expert Microsoft Copilot Optimization services for Miami. residents and businesses.",
+  "serviceType": "Microsoft Copilot Optimization"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI Answer Engine Optimization (AEO) in New York City",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "New York City"
+  },
+  "description": "Expert AI Answer Engine Optimization (AEO) services for New York City residents and businesses.",
+  "serviceType": "AI Answer Engine Optimization (AEO)"
+}

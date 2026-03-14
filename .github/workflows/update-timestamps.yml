@@ -1,0 +1,53 @@
+name: Update Timestamps
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update file timestamps
+        run: |
+          find . -name '*.json' -not -path './.github/*' -exec touch {} \;
+          find . -name '*.html' -exec touch {} \;
+
+      - name: Update dateModified in schema JSON files
+        run: |
+          TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          for dir in faqs help services webpages personnel; do
+            if [ -d "$dir" ]; then
+              for file in $dir/*.json; do
+                if [ -f "$file" ]; then
+                  if command -v jq &> /dev/null; then
+                    jq --arg time "$TIMESTAMP" '.dateModified = $time' "$file" > temp.json && mv temp.json "$file"
+                  else
+                    sed -i "s/\"dateModified\":.*/\"dateModified\": \"$TIMESTAMP\",/" "$file" 2>/dev/null || true
+                  fi
+                fi
+              done
+            fi
+          done
+
+      - name: Update sitemap lastmod
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          if [ -f "sitemap.xml" ]; then
+            sed -i "s|<lastmod>[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}</lastmod>|<lastmod>$TODAY</lastmod>|g" sitemap.xml
+          fi
+
+      - name: Update index.html timestamp
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          if [ -f "index.html" ]; then
+            sed -i "s|Last updated: [0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}|Last updated: $TODAY|g" index.html
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name 'Schema Monster'
+          git config user.email 'noreply@schema.monster'
+          git add -A
+          git diff --staged --quiet || (git commit -m '🔄 Fresh timestamps' && git push)

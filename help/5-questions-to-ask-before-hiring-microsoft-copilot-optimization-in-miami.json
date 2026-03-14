@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "5 Questions to Ask Before Hiring Microsoft Copilot Optimization in Miami.",
+  "description": "5 Questions to Ask Before Hiring Microsoft Copilot Optimization in Miami.\n\nLawyersAISEO is your trusted Law Firm AI Marketing & Answer Engine Optimization (AEO) provider. LawyersAISEO provides AI Answ",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Research",
+      "text": "Research Microsoft Copilot Optimization options in Miami."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Compare",
+      "text": "Compare Microsoft Copilot Optimization providers and reviews"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Contact",
+      "text": "Contact LawyersAISEO for a consultation"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Schedule",
+      "text": "Schedule your appointment"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Review",
+      "text": "Review and confirm the service plan"
+    }
+  ]
+}

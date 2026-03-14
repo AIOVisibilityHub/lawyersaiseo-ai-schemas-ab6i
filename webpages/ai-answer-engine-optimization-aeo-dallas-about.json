@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "AI Answer Engine Optimization (AEO) About - Dallas",
+  "url": "https://www.lawyersaiseo.com//ai-answer-engine-optimization-aeo/about",
+  "description": "About page for AI Answer Engine Optimization (AEO) in Dallas by LawyersAISEO",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "AI Answer Engine Optimization (AEO)",
+    "areaServed": {
+      "@type": "City",
+      "name": "Dallas"
+    }
+  }
+}

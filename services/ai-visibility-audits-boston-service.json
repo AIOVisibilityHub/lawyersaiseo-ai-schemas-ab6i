@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI Visibility Audits in Boston",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Boston"
+  },
+  "description": "Expert AI Visibility Audits services for Boston residents and businesses.",
+  "serviceType": "AI Visibility Audits"
+}

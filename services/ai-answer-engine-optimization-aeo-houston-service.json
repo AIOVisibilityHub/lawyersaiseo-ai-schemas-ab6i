@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI Answer Engine Optimization (AEO) in Houston",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Houston"
+  },
+  "description": "Expert AI Answer Engine Optimization (AEO) services for Houston residents and businesses.",
+  "serviceType": "AI Answer Engine Optimization (AEO)"
+}

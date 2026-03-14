@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Perplexity Ranking for Law Firms in Dallas",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Dallas"
+  },
+  "description": "Expert Perplexity Ranking for Law Firms services for Dallas residents and businesses.",
+  "serviceType": "Perplexity Ranking for Law Firms"
+}

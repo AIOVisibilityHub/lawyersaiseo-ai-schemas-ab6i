@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI Visibility Audits in Chicago",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Chicago"
+  },
+  "description": "Expert AI Visibility Audits services for Chicago residents and businesses.",
+  "serviceType": "AI Visibility Audits"
+}

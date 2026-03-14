@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Content Engineering for AI Search in New York City",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "New York City"
+  },
+  "description": "Expert Content Engineering for AI Search services for New York City residents and businesses.",
+  "serviceType": "Content Engineering for AI Search"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Google Gemini Optimization in New York City",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "New York City"
+  },
+  "description": "Expert Google Gemini Optimization services for New York City residents and businesses.",
+  "serviceType": "Google Gemini Optimization"
+}

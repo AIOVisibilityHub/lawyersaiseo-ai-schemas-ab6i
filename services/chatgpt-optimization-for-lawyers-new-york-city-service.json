@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "ChatGPT Optimization for Lawyers in New York City",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "New York City"
+  },
+  "description": "Expert ChatGPT Optimization for Lawyers services for New York City residents and businesses.",
+  "serviceType": "ChatGPT Optimization for Lawyers"
+}

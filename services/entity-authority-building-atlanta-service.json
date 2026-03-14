@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Entity Authority Building in Atlanta",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Atlanta"
+  },
+  "description": "Expert Entity Authority Building services for Atlanta residents and businesses.",
+  "serviceType": "Entity Authority Building"
+}

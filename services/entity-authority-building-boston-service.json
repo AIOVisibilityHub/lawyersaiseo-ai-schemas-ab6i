@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Entity Authority Building in Boston",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Boston"
+  },
+  "description": "Expert Entity Authority Building services for Boston residents and businesses.",
+  "serviceType": "Entity Authority Building"
+}

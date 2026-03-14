@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "AI Search Ranking Monitoring Contact - Atlanta",
+  "url": "https://www.lawyersaiseo.com//ai-search-ranking-monitoring/contact",
+  "description": "Contact page for AI Search Ranking Monitoring in Atlanta by LawyersAISEO",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "AI Search Ranking Monitoring",
+    "areaServed": {
+      "@type": "City",
+      "name": "Atlanta"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Google Gemini Optimization in Houston",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Houston"
+  },
+  "description": "Expert Google Gemini Optimization services for Houston residents and businesses.",
+  "serviceType": "Google Gemini Optimization"
+}

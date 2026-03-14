@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Technical Schema Markup for Law Firms in Boston",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Boston"
+  },
+  "description": "Expert Technical Schema Markup for Law Firms services for Boston residents and businesses.",
+  "serviceType": "Technical Schema Markup for Law Firms"
+}

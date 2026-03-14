@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI Visibility Audits in New York City",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "New York City"
+  },
+  "description": "Expert AI Visibility Audits services for New York City residents and businesses.",
+  "serviceType": "AI Visibility Audits"
+}

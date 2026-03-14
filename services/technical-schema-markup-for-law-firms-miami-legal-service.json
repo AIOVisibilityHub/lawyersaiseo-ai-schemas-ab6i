@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "LawyersAISEO - Technical Schema Markup for Law Firms",
+  "description": "Professional Technical Schema Markup for Law Firms services in Miami.. LawyersAISEO provides AI Answer Engine Optimization (AEO) specifically for lawyers and law firms, helping them get cited and recommended by AI platforms like ChatGPT, Perplexity, Google Gemini, and Microsoft Copilot.",
+  "url": "https://www.lawyersaiseo.com/",
+  "telephone": "213-537-5613",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Miami."
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Miami."
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Technical Schema Markup for Law Firms Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Technical Schema Markup for Law Firms"
+        }
+      }
+    ]
+  }
+}

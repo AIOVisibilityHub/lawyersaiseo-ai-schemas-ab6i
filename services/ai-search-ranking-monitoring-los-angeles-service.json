@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI Search Ranking Monitoring in Los Angeles",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Los Angeles"
+  },
+  "description": "Expert AI Search Ranking Monitoring services for Los Angeles residents and businesses.",
+  "serviceType": "AI Search Ranking Monitoring"
+}

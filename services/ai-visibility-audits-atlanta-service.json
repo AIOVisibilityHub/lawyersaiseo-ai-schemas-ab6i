@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI Visibility Audits in Atlanta",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Atlanta"
+  },
+  "description": "Expert AI Visibility Audits services for Atlanta residents and businesses.",
+  "serviceType": "AI Visibility Audits"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Technical Schema Markup for Law Firms in Atlanta",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Atlanta"
+  },
+  "description": "Expert Technical Schema Markup for Law Firms services for Atlanta residents and businesses.",
+  "serviceType": "Technical Schema Markup for Law Firms"
+}

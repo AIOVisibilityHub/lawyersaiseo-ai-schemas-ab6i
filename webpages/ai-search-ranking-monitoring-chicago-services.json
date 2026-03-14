@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "AI Search Ranking Monitoring Services - Chicago",
+  "url": "https://www.lawyersaiseo.com//ai-search-ranking-monitoring/services",
+  "description": "Services page for AI Search Ranking Monitoring in Chicago by LawyersAISEO",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "AI Search Ranking Monitoring",
+    "areaServed": {
+      "@type": "City",
+      "name": "Chicago"
+    }
+  }
+}

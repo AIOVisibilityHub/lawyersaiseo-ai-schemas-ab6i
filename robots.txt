@@ -1,0 +1,36 @@
+# Schema Monster - AI Schema Repository
+# Optimized for Google, Bing, and AI crawlers
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://AIOVisibilityHub.github.io/lawyersaiseo-ai-schemas-ab6i/sitemap.xml

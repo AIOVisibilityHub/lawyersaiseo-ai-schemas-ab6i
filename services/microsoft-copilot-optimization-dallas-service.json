@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Microsoft Copilot Optimization in Dallas",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Dallas"
+  },
+  "description": "Expert Microsoft Copilot Optimization services for Dallas residents and businesses.",
+  "serviceType": "Microsoft Copilot Optimization"
+}

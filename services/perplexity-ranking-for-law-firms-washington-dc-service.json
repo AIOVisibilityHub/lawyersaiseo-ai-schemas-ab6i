@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Perplexity Ranking for Law Firms in Washington DC",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Washington DC"
+  },
+  "description": "Expert Perplexity Ranking for Law Firms services for Washington DC residents and businesses.",
+  "serviceType": "Perplexity Ranking for Law Firms"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Entity Authority Building in Washington DC",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Washington DC"
+  },
+  "description": "Expert Entity Authority Building services for Washington DC residents and businesses.",
+  "serviceType": "Entity Authority Building"
+}

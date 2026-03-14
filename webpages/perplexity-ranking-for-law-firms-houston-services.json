@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Perplexity Ranking for Law Firms Services - Houston",
+  "url": "https://www.lawyersaiseo.com//perplexity-ranking-for-law-firms/services",
+  "description": "Services page for Perplexity Ranking for Law Firms in Houston by LawyersAISEO",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "Perplexity Ranking for Law Firms",
+    "areaServed": {
+      "@type": "City",
+      "name": "Houston"
+    }
+  }
+}

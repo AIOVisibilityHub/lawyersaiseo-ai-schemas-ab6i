@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "ChatGPT Optimization for Lawyers in Houston",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Houston"
+  },
+  "description": "Expert ChatGPT Optimization for Lawyers services for Houston residents and businesses.",
+  "serviceType": "ChatGPT Optimization for Lawyers"
+}

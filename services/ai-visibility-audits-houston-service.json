@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI Visibility Audits in Houston",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Houston"
+  },
+  "description": "Expert AI Visibility Audits services for Houston residents and businesses.",
+  "serviceType": "AI Visibility Audits"
+}

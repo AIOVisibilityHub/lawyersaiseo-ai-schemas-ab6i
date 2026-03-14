@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Microsoft Copilot Optimization in Washington DC",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Washington DC"
+  },
+  "description": "Expert Microsoft Copilot Optimization services for Washington DC residents and businesses.",
+  "serviceType": "Microsoft Copilot Optimization"
+}

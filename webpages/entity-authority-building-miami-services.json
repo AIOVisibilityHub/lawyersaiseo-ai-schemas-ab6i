@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Entity Authority Building Services - Miami.",
+  "url": "https://www.lawyersaiseo.com//entity-authority-building/services",
+  "description": "Services page for Entity Authority Building in Miami. by LawyersAISEO",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "Entity Authority Building",
+    "areaServed": {
+      "@type": "City",
+      "name": "Miami."
+    }
+  }
+}

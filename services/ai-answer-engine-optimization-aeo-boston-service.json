@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "AI Answer Engine Optimization (AEO) in Boston",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Boston"
+  },
+  "description": "Expert AI Answer Engine Optimization (AEO) services for Boston residents and businesses.",
+  "serviceType": "AI Answer Engine Optimization (AEO)"
+}

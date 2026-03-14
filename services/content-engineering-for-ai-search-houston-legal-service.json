@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "LawyersAISEO - Content Engineering for AI Search",
+  "description": "Professional Content Engineering for AI Search services in Houston. LawyersAISEO provides AI Answer Engine Optimization (AEO) specifically for lawyers and law firms, helping them get cited and recommended by AI platforms like ChatGPT, Perplexity, Google Gemini, and Microsoft Copilot.",
+  "url": "https://www.lawyersaiseo.com/",
+  "telephone": "213-537-5613",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Houston"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Houston"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Content Engineering for AI Search Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Content Engineering for AI Search"
+        }
+      }
+    ]
+  }
+}

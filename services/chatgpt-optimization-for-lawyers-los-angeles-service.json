@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "ChatGPT Optimization for Lawyers in Los Angeles",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Los Angeles"
+  },
+  "description": "Expert ChatGPT Optimization for Lawyers services for Los Angeles residents and businesses.",
+  "serviceType": "ChatGPT Optimization for Lawyers"
+}

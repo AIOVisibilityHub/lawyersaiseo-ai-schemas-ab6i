@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Technical Schema Markup for Law Firms Services - San Francisco",
+  "url": "https://www.lawyersaiseo.com//technical-schema-markup-for-law-firms/services",
+  "description": "Services page for Technical Schema Markup for Law Firms in San Francisco by LawyersAISEO",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "Technical Schema Markup for Law Firms",
+    "areaServed": {
+      "@type": "City",
+      "name": "San Francisco"
+    }
+  }
+}

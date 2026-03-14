@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Microsoft Copilot Optimization in San Francisco",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "LawyersAISEO",
+    "url": "https://www.lawyersaiseo.com/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "San Francisco"
+  },
+  "description": "Expert Microsoft Copilot Optimization services for San Francisco residents and businesses.",
+  "serviceType": "Microsoft Copilot Optimization"
+}
